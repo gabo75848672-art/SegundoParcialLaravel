@@ -11,8 +11,7 @@ class EmpleadoSeeder extends Seeder
     {
         $data = [
           [
-   
-    ['nombre'=>'María','apellido'=>'Rodríguez','correo'=>'maria.rodriguez@demo.com','salario'=>5100.25],
+             ['nombre'=>'María','apellido'=>'Rodríguez','correo'=>'maria.rodriguez@demo.com','salario'=>5100.25],
     ['nombre'=>'Carlos','apellido'=>'Martínez','correo'=>'carlos.martinez@demo.com','salario'=>3950.00],
     ['nombre'=>'Ana','apellido'=>'Hernández','correo'=>'ana.hernandez@demo.com','salario'=>4500.80],
     ['nombre'=>'Ricardo','apellido'=>'Sánchez','correo'=>'ricardo.sanchez@demo.com','salario'=>6000.00],
